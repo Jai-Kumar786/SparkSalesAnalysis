@@ -1,0 +1,51 @@
+transaction_id,customer_id,product_id,category,quantity,price,timestamp,region,payment_mode
+T001,C101,P6003,Fashion,2,2500,7/2/2024 18:00,East,Debit Card
+T002,C104,P5002,Electronics,3,18000,7/20/2024 10:00,North,UPI
+T003,C102,P6002,Fashion,1,1500,7/9/2024 7:00,South,Debit Card
+T004,C102,P6001,Fashion,1,1200,7/15/2024 16:00,North,Cash
+T005,C107,P5002,Electronics,3,18000,7/20/2024 8:00,South,Credit Card
+T006,C101,P6002,Fashion,3,1500,7/4/2024 8:00,North,Cash
+T007,C107,P7003,Grocery,3,80,7/18/2024 15:00,North,Credit Card
+T008,C106,P6001,Fashion,1,1200,7/17/2024 11:00,North,Cash
+T009,C108,P5001,Electronics,4,25000,7/3/2024 18:00,South,Credit Card
+T010,C107,P5002,Electronics,2,18000,7/3/2024 17:00,East,UPI
+T011,C108,P6001,Fashion,1,1200,7/3/2024 11:00,South,Cash
+T012,C102,P5002,Electronics,1,18000,7/16/2024 23:00,South,Credit Card
+T013,C107,P7003,Grocery,5,80,7/10/2024 8:00,North,Credit Card
+T014,C102,P7003,Grocery,4,80,7/10/2024 12:00,East,Debit Card
+T015,C108,P6002,Fashion,3,1500,7/6/2024 18:00,South,Cash
+T016,C104,P7002,Grocery,3,100,7/17/2024 17:00,South,UPI
+T017,C108,P5002,Electronics,4,18000,7/17/2024 8:00,West,Credit Card
+T018,C104,P6003,Fashion,3,2500,7/3/2024 17:00,East,Cash
+T019,C104,P6003,Fashion,5,2500,7/10/2024 18:00,North,Cash
+T020,C107,P6001,Fashion,4,1200,7/2/2024 4:00,South,Credit Card
+T021,C103,P6001,Fashion,2,1200,7/21/2024 15:00,East,Debit Card
+T022,C105,P5002,Electronics,1,18000,7/21/2024 5:00,South,Debit Card
+T023,C102,P5001,Electronics,1,25000,7/3/2024 16:00,East,Debit Card
+T024,C107,P6002,Fashion,4,1500,7/17/2024 19:00,East,Cash
+T025,C102,P5001,Electronics,2,25000,7/6/2024 1:00,South,Credit Card
+T026,C105,P6001,Fashion,3,1200,7/18/2024 15:00,North,UPI
+T027,C108,P5002,Electronics,1,18000,7/8/2024 21:00,South,Cash
+T028,C101,P6002,Fashion,5,1500,7/8/2024 11:00,West,Debit Card
+T029,C102,P6001,Fashion,4,1200,7/6/2024 18:00,South,UPI
+T030,C105,P6002,Fashion,1,1500,7/8/2024 18:00,East,Credit Card
+T031,C108,P6001,Fashion,4,1200,7/4/2024 7:00,East,UPI
+T032,C103,P7001,Grocery,3,50,7/6/2024 10:00,South,Debit Card
+T033,C103,P6001,Fashion,3,1200,7/11/2024 8:00,North,Credit Card
+T034,C105,P5002,Electronics,4,18000,7/18/2024 19:00,South,UPI
+T035,C104,P6001,Fashion,4,1200,7/13/2024 14:00,North,UPI
+T036,C104,P5001,Electronics,4,25000,7/12/2024 3:00,South,Cash
+T037,C102,P5002,Electronics,2,18000,7/13/2024 3:00,East,Debit Card
+T038,C105,P5001,Electronics,5,25000,7/13/2024 1:00,North,Credit Card
+T039,C103,P6001,Fashion,5,1200,7/20/2024 15:00,South,Debit Card
+T040,C106,P6001,Fashion,2,1200,7/10/2024 10:00,North,Debit Card
+T041,C106,P6002,Fashion,2,1500,7/20/2024 5:00,West,Debit Card
+T042,C101,P6003,Fashion,3,2500,7/3/2024 10:00,North,UPI
+T043,C105,P7003,Grocery,4,80,7/8/2024 11:00,East,Cash
+T044,C107,P6002,Fashion,1,1500,7/8/2024 3:00,West,Cash
+T045,C102,P7003,Grocery,2,80,7/18/2024 4:00,West,Debit Card
+T046,C103,P6003,Fashion,2,2500,7/13/2024 15:00,South,Cash
+T047,C106,P7003,Grocery,5,80,7/10/2024 9:00,North,Credit Card
+T048,C103,P5002,Electronics,1,18000,7/18/2024 11:00,East,UPI
+T049,C108,P7002,Grocery,1,100,7/14/2024 9:00,East,Cash
+T050,C102,P5001,Electronics,5,25000,7/3/2024 12:00,North,Debit Card

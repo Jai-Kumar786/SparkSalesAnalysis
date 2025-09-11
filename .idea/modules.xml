@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkSalesAnalysis.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkSalesAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkSalesAnalysis-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkSalesAnalysis-build.iml" />
+    </modules>
+  </component>
+</project>
